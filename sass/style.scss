@@ -1,0 +1,17 @@
+@import"color";
+
+body{
+  background-color: $back;
+}
+
+h1{
+  text-align: center;
+}
+
+p,li{
+  color: $white;
+}
+
+b{
+  color: $red;
+}
